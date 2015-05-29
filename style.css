@@ -1,0 +1,79 @@
+/* This is a CSS comment.*/
+
+
+/*
+Comments are only to help PEOPLE read a code file. The
+computer ignores them.
+*/
+* {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;
+}
+.description {
+    background-color: #F62817;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px;
+    max-width: 705px;
+}
+.Random_Notes {
+    background-color: grey;
+    border-radius: 20px;
+    color: lightblue;
+    padding: 10px;
+    margin: 10px;
+}
+body {
+	background-color: #F62817;
+	font-family: Helvetica;
+}
+h1 {
+	text-align: center;
+	color: #FFEB46;
+	font-size: 30pt;
+}
+div {
+	background-color: #FFEB46;
+	border-radius: 20px;
+	padding: 10px;
+	margin: 10px;
+}
+.info {
+	color: red;
+}
+h3 {
+	font-size: 17pt;
+	color: red;
+}
+span {
+	font-size: 20pt;
+}
+.TOC {
+    display: flex;
+}
+.screenshot2 {
+	margin-left: 5%;
+}
+.special {
+	font-size: 15pt;
+	color: red;
+	font-family: oblique;
+}
+.customOL {
+	font-weight: bold;
+}
+.idk {
+	font-size: 15pt;
+	font-family: oblique;
+}
+.quotes {
+	font-size: 15pt;
+	font-family: oblique;
+}
+.names {
+	font-family: oblique;
+	font-weight: bold;
+	font-size: 13pt;
+}
